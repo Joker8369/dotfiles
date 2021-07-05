@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jonathan.kerbrat@hotmail.com
+	name = Jonathan KERBRAT
